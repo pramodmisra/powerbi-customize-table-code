@@ -1,0 +1,5 @@
+venv/
+config.py
+Apendices.xlsx
+__pycache__/
+.idea/
